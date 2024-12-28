@@ -1,5 +1,20 @@
 # Changelog
 
+## [2024.12.22](https://github.com/jdx/mise/compare/v2024.12.21..v2024.12.22) - 2024-12-28
+
+### 🐛 Bug Fixes
+
+- add `:` escaping for tasks with multiple colons by [@eitamal](https://github.com/eitamal) in [#3853](https://github.com/jdx/mise/pull/3853)
+- type issue in docs/JSON schema for python_create_args and uv_create_args by [@roele](https://github.com/roele) in [#3855](https://github.com/jdx/mise/pull/3855)
+
+### 📚 Documentation
+
+- **(settings)** fix link to precompiled python binaries by [@scop](https://github.com/scop) in [#3851](https://github.com/jdx/mise/pull/3851)
+
+### New Contributors
+
+- @eitamal made their first contribution in [#3853](https://github.com/jdx/mise/pull/3853)
+
 ## [2024.12.21](https://github.com/jdx/mise/compare/v2024.12.20..v2024.12.21) - 2024-12-27
 
 ### 🐛 Bug Fixes
